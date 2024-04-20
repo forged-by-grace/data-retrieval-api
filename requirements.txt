@@ -7,5 +7,5 @@ ensure
 joblib
 types-PyYAML
 python-multipart
-fastapi-sqlalchemy
+SQLAlchemy
 -e .
