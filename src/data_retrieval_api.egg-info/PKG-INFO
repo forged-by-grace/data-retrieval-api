@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: data-retrieval-api
+Version: 0.0.1
+Summary: A service that provides endpoints for retrieving data based on model name and other parameters
+Home-page: https://github.com/forged_by_grace/data-retrieval-api
+Author: forged_by_grace
+Author-email: nornubariconfidence@gmail.com
+Project-URL: Bug Tracker, https://github.com/forged_by_grace/data-retrieval-api/issues
+
+# data-retrieval-api
+Provides API endpoints for store write service

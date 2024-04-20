@@ -1,0 +1,14 @@
+APP_VERSION: "0.0.1"
+APP_TITLE: "Data Retrieval API"
+APP_DEBUG: True
+APP_PORT: 8013
+APP_HOST: 'localhost'
+APP_RELOAD: True
+APP_DESCRIPTION: 'A service that provides endpoints for retrieving data based on model name and other parameters'
+APP_LIFESPAN: 'on'
+APP_ENTRY_POINT: 'main:app'
+APP_DEVELOPER_NAME: 'James Nornubari Confidence'
+APP_DEVELOPER_REPO_URL: 'https://github.com/forged-by-grace/'
+APP_DEVELOPER_EMAIL: 'nornubariconfidence@gmail.com'
+APP_DATABASE_URL: 'sqlite:///./src/database/sql_app.db'
+

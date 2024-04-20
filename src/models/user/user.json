@@ -1,0 +1,34 @@
+{
+    "fields": [
+        {
+            "id": "123456adased",
+            "type": "string",
+            "optional": "False"
+        },
+        {
+            "first_name": "John",
+            "type": "string",
+            "optional": "False"
+        },
+        {
+            "last_name": "Doe",
+            "type": "string",
+            "optional": "False"
+        },
+        {
+            "model_name": "User",
+            "type": "string",
+            "optional": "False"
+        },
+        {
+            "created_at": "19-04-2023T06:28:234",
+            "type": "datetime",
+            "optional": "False"
+        },
+        {
+            "updated_at": "19-04-2023T06:28:234",
+            "type": "datetime",
+            "optional": "True"
+        }
+    ]
+}
